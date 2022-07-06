@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.h1{
+    text-align: center;
+    color: azure;
+    background-color: aquamarine; 
+}
+
+.h2 {
+    margin-top: 50px;
+    color: blue;
+background-color: aqua;
+
+    }
+    .H2{
+        color: blue;
+        background-color: aqua;
+    }
+    .h2{
+        color: blue;
+        background-color: aqua;
+    }
